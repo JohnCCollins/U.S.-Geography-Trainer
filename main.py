@@ -2,7 +2,7 @@ import turtle
 import pandas
 
 screen = turtle.Screen()
-screen.title("Name The U.S. States")
+screen.title("Unites States Geography Trainer")
 
 image = "blank_states_img.gif"
 screen.addshape(image)
